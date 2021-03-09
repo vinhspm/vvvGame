@@ -1,0 +1,17 @@
+.body {
+  height: 100vh;
+  position: relative;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.login-form {
+  width: 300px;
+}
+.lg-input {
+  padding: 12px 20px;
+}
