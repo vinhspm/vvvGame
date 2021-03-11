@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+}
+#search-input::placeholder {
+  color: aliceblue;
+}
+.iconWrap :hover {
+  cursor: pointer;
+}
+#cart-number {
+  position: absolute;
+  background: #008aa4;
+  top: -6px;
+  right: -10px;
+  width: 20px;
+  height: 20px;
+  font-size: .75rem;
+  line-height: 20px;
+  color: #fff;
+  text-align: center;
+  border-radius: 100%;
+}
